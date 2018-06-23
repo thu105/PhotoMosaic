@@ -1,0 +1,1 @@
+Smaller sized images will be stored here where the database will point when building a photo mosaic.

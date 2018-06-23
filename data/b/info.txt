@@ -1,0 +1,1 @@
+Black and White version of images from img folder will be stored here for faster edge detection

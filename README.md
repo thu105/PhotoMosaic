@@ -17,6 +17,6 @@ Using OpenMP to create photo mosaic effect
   - Execute using "./[filename]"
   
 ## Reference:
-  - Edge Detection Algorithm: http://www.pages.drexel.edu/~nk752/Research/cannyTut2.html#Step 1
+  - Edge Detection Algorithm: http://www.pages.drexel.edu/~nk752/Research/cannyTut2.html#Step
   - Read and Write JPG: https://github.com/nothings/stb
   - Get Filenames: http://www.martinbroadhurst.com/list-the-files-in-a-directory-in-c.html

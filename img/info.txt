@@ -1,1 +1,0 @@
-Place images here to process into the database
